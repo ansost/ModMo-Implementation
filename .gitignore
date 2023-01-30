@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Ipython/ Jupyter stuff
-.ipynb_checkpoints
+scripts/.ipynb_checkpoints
